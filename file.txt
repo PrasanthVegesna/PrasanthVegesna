@@ -1,1 +1,2 @@
 Create first github file
+Add some features 
